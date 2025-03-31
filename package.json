@@ -1,0 +1,15 @@
+{
+  "name": "pra-decode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "pra"
+  ],
+  "author": "Prashant Sharma",
+  "license": "ISC"
+}
