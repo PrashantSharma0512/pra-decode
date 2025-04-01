@@ -1,15 +1,24 @@
 {
   "name": "pra-decode",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A lightweight JavaScript library for secure SHA-256 hashing and decoding.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [
-    "pra"
+    "SHA-256",
+    "hashing",
+    "security",
+    "encoding",
+    "decoding",
+    "pra-decode"
   ],
   "author": "Prashant Sharma",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PrashantSharma0512/pra-decode"
+  }
 }
